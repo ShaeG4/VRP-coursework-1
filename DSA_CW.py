@@ -1,6 +1,5 @@
 import time
 import tracemalloc
-import matplotlib.pyplot as plt 
 
 #Stages: 
 # - need to create the routes with variables like routes, current_routes, current_load, capacity, customers and demand
